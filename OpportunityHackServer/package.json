@@ -1,0 +1,9 @@
+{
+	  "name": "OpportunityHackServer",
+	  "version": "0.1.0",
+	  "description": "OpportunityHackServer",
+	  "license": "MIT",
+	  "dependencies": {
+	    "amqp" : "*"
+	  }
+	}
